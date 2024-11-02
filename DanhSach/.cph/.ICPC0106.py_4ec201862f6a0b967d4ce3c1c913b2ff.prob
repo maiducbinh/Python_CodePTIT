@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0106","url":"e:\\Nam4_Ky1\\Python\\Code\\DanhSach\\ICPC0106.py","tests":[{"id":1730553181257,"input":"2\n8\n10010100010010101\n2\n10010100010010101","output":"224225\n10010100010010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Nam4_Ky1\\Python\\Code\\DanhSach\\ICPC0106.py","group":"local","local":true}
