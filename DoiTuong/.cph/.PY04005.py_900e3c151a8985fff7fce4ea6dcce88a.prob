@@ -1,0 +1,1 @@
+{"name":"Local: PY04005","url":"e:\\Nam4_Ky1\\Python\\Code\\DoiTuong\\PY04005.py","tests":[{"id":1730707615738,"input":"3\n0 0 0 5 0 199\n1 1 1 1 1 1\n0 0 0 5 5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Nam4_Ky1\\Python\\Code\\DoiTuong\\PY04005.py","group":"local","local":true}
