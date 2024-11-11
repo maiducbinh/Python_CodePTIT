@@ -1,0 +1,1 @@
+{"name":"Local: PY03015","url":"e:\\Nam4_Ky1\\Python\\Code\\TuDien\\PY03015.py","tests":[{"id":1731310179971,"input":"2\n5 5\n1 2\n1 3\n2 3\n3 4\n3 5\n5 7\n1 2\n1 3\n2 3\n2 5\n3 4\n3 5\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Nam4_Ky1\\Python\\Code\\TuDien\\PY03015.py","group":"local","local":true}
